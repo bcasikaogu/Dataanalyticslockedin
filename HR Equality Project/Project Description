@@ -18,7 +18,7 @@ If p-value > 0.05 → No evidence of gender inequality.
 
 If p-value ≤ 0.05 → Evidence suggests gender inequality.
 
-I used dummy values of 0 and 1 for male and female respectively 
+I used dummy values of 0 and 1 for female and male respectively 
 
 SUMMARY OUTPUT OF GENDER ON EMPLOYEE SATISFACTION						
 The Coefficients for the regression were 3.884615385 for the intercept and -0.041683447 for X.
@@ -36,3 +36,5 @@ The Chi Square Probability of 0.902166466 shows that there is no conclusive link
 
 CHI SQUARE PROBABILITY RESULT FOR GENDER ON JOB PLACEMENT						
 The Chi Square Probability of 0.018419529 shows that there is evidence of gender inequality in determining job placements.
+
+The results provide mixed evidence regarding gender inequality. While satisfaction and performance show no significant gender differences, salary and job placement show statistically significant disparities, suggesting potential inequality in compensation and role allocation.
