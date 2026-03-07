@@ -1,0 +1,40 @@
+#dataanalyticslockedin
+Hi everyone, I just worked on a dataset from a semifictional HR firm and it was loads of fun
+The idea kinda was to asses whether there were any gender equality or diversity concerns
+I used four key variables to assess whether or not it was a major issue or an issue at all to be frank
+Employee Performance, Employee Satisfaction, Employee Salary and Job Spread
+I used graphs for easy visualization as well as regression analysis to assess presence and impact(all graphs will be included in the project files). 
+For the regression analysis i made use of the chi-square test and simple regression
+
+Null Hypothesis (H₀)
+Gender has no significant effect on employee outcomes 
+
+Alternative Hypothesis (H₁)
+Gender has a significant effect on employee outcomes.
+
+Decision Rule
+
+If p-value > 0.05 → No evidence of gender inequality.
+
+If p-value ≤ 0.05 → Evidence suggests gender inequality.
+
+I used dummy values of 0 and 1 for female and male respectively 
+
+SUMMARY OUTPUT OF GENDER ON EMPLOYEE SATISFACTION						
+The Coefficients for the regression were 3.884615385 for the intercept and -0.041683447 for X.
+The Intercept represents the average employee satisfaction for females (on a scale of 1 to 5) and the X value shows the spread between gender satisfaction levels (average male satisfaction combines the intercept and x values)
+The probability value of 0.560376796 shows that there is no conclusive link between gender and employee satisfaction(i.e no inequality)
+
+SUMMARY OUTPUT OF GENDER ON EMPLOYEE SALARY						
+The Coefficients of the regression were 75066.15705 for the intercept and 7307.866509 for X.
+The salaries are in US dollars
+The Intercept represents the average employee salary for females and the X value shows the spread between male and female salaries (males earn $7307.866509 on average than women)
+The probability value of 0.000294561 shows that there is evidence of gender inequality in salary outcomes.
+
+CHI SQUARE PROBABILITY RESULT FOR GENDER ON EMPLOYEE PERFORMANCE						
+The Chi Square Probability of 0.902166466 shows that there is no conclusive link between gender and employee performannces.
+
+CHI SQUARE PROBABILITY RESULT FOR GENDER ON JOB PLACEMENT						
+The Chi Square Probability of 0.018419529 shows that there is evidence of gender inequality in determining job placements.
+
+The results provide mixed evidence regarding gender inequality. While satisfaction and performance show no significant gender differences, salary and job placement show statistically significant disparities, suggesting potential inequality in compensation and role allocation.
