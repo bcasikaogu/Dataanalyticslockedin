@@ -1,18 +1,18 @@
 # And today I look at death, but six (or seven) years ago
-This has been one of my most stressful endeavors (30% my fault a 100% excel's fault)
+This has been one of my most stressful endeavors yet and it's 30% my fault, a 100% excel's fault.
 ## The idea was simple:
 
--Explore global mortality data
+- Explore global mortality data
 
--Look at year-on-year trends
+- Look at year-on-year trends
 
--Build a map chart
+- Build a map chart
 
--Analyze causes of death
+- Analyze causes of death
 
-This in paticular was quite important cus they were like 30 different subheadings. 
+This in paticular was quite important because they were like 30 different subheadings. 
 
-The way me and alicia did it (That's what I call my AI) was just a bit of magic called grouping
+The way me and alicia did it (That's what I call my AI) was just a bit of magic called grouping.
 ### **Communicable (Infectious) Diseases**
 **Diseases caused by pathogens (bacteria, viruses, parasites)**
 
@@ -114,24 +114,39 @@ Interpersonal violence
 
 Conflict and terrorism
 
-After which I came created this lovely chart
+After which I came created this lovely chart, 
 
-In which after using a slicer to tweak with it, I started feeling very philosophical 
+---
+![Global Death Project/by cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/by%20cause.PNG)
+---
+and then....
 
-I was like "I'm noticing a trend between development and the type of death" (I 100% blame Nigeria)
+## How it all went wrong
+
+As I was using a slicer to tweak with chart, I started feeling very.....philosophical.
+
+---
+![Global Death Project/Nigeria cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/Nigeria%20cause.PNG)
+
+I was like "I'm noticing a trend between development and the type of death" (I 100% blame Nigeria).
 
 Cus tell my why most of us are dying by communicable diseases, that's actually poor cl.
 
-So I went and got external data from unctad (oversabi) which to back my theory, I didnt see much backing
+So I went and got external data from unctad (oversabi) in order to back my theory.
 
-A normal person would have said ai lil nigga you have tried, but noooooo, my head too strong
+Unfortunately I didnt see much backing or quite frankly any backing.
 
-I went to go look for HDI data, after which I spent like 4 hours whining excel to make everything balance *cries in baby please*
+A normal person would have said ai lil nigga you have tried pack it up, but noooooo, my head is too strong (ayy).
 
-The worst part, it was still inconclusive, which makes sense in hindsight
+I went to go look for HDI data from (https://countryeconomy.com/hdi?year=2019), after which I spent like 4 hours whining excel to make everything balance **cries in baby please**.
 
-Damn. The only thing is what is the takeaway from this unfortunate adventure, I leave that to you. 
+The worst part was it was still inconclusive, which makes sense in hindsight.
+
+Damn. The only question remaining is what is the takeaway from this unfortunate adventure?
+I'll leave that to you guys, however... 
 
 The dashboard did look stunning though.
-
-Alright, till next time *luv*
+---
+![Global Death Project/global death dashboard.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/global%20death%20dashboard.PNG)
+---
+Alright, till next time *luv* (P.S. the unctad file is included in this folder).
