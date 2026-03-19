@@ -118,8 +118,10 @@ After which I came created this lovely chart,
 
 ---
 ![Global Death Project/by cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/by%20cause.PNG)
----
+
 and then....
+
+----
 
 ## How it all went wrong
 
