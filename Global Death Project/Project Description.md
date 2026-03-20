@@ -4,8 +4,6 @@ This has been one of my most stressful endeavors yet and it's 30% my fault, a 10
 
 - Explore global mortality data
 
-- Look at year-on-year trends
-
 - Build a map chart
 
 - Analyze causes of death
@@ -125,14 +123,15 @@ and then....
 
 ## How it all went wrong
 
-As I was using a slicer to tweak with chart, I started feeling very.....philosophical.
+As I was using a slicer to tweak with the chart, I started feeling very.....philosophical.
 
 ---
+### Causes of Death in Nigeria
 ![Global Death Project/Nigeria cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/Nigeria%20cause.PNG)
 
 I was like "I'm noticing a trend between development and the type of death" (I 100% blame Nigeria).
 
-Cus tell my why most of us are dying by communicable diseases, that's actually poor cl.
+'Cus tell my why most of us are dying by communicable diseases, that's actually poor cl.
 
 So I went and got external data from unctad (oversabi) in order to back my theory.
 
@@ -144,8 +143,8 @@ I went to go look for HDI data from (https://countryeconomy.com/hdi?year=2019), 
 
 The worst part was it was still inconclusive, which makes sense in hindsight.
 
-Damn. The only question remaining is what is the takeaway from this unfortunate adventure?
-I'll leave that to you guys, however... 
+Damn. The only question remaining is, what is the takeaway from this unfortunate adventure?
+I'll leave that one to you guys, however... 
 
 The dashboard did look stunning though.
 ---
