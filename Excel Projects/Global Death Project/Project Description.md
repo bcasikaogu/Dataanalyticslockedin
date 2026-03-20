@@ -115,7 +115,7 @@ Conflict and terrorism
 After which I came created this lovely chart, 
 
 ---
-![Global Death Project/by cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/by%20cause.PNG)
+![Global Death Project/by cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Excel%20Projects/Global%20Death%20Project/by%20cause.PNG)
 
 and then....
 
@@ -127,7 +127,7 @@ As I was using a slicer to tweak with the chart, I started feeling very.....phil
 
 ---
 ### Causes of Death in Nigeria
-![Global Death Project/Nigeria cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/Nigeria%20cause.PNG)
+![Global Death Project/Nigeria cause.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Excel%20Projects/Global%20Death%20Project/Nigeria%20cause.PNG)
 
 I was like "I'm noticing a trend between development and the type of death" (I 100% blame Nigeria).
 
@@ -135,11 +135,11 @@ I was like "I'm noticing a trend between development and the type of death" (I 1
 
 So I went and got external data from unctad (oversabi) in order to back my theory.
 
-Unfortunately I didnt see much backing or quite frankly any backing.
+Unfortunately I didnt see much or quite frankly any backing.
 
 A normal person would have said ai lil nigga you have tried pack it up, but noooooo, my head is too strong (ayy).
 
-I went to go look for HDI data from (https://countryeconomy.com/hdi?year=2019), after which I spent like 4 hours whining excel to make everything balance **cries in baby please**.
+I went to go look for HDI data from (https://countryeconomy.com/hdi?year=2019), after which I spent like 4 hours whining excel to make everything balance *cries in baby please*.
 
 The worst part was it was still inconclusive, which makes sense in hindsight.
 
@@ -148,6 +148,6 @@ I'll leave that one to you guys, however...
 
 The dashboard did look stunning though.
 ---
-![Global Death Project/global death dashboard.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Global%20Death%20Project/global%20death%20dashboard.PNG)
+![Global Death Project/global death dashboard.PNG](https://github.com/bcasikaogu/Dataanalyticslockedin/blob/main/Excel%20Projects/Global%20Death%20Project/global%20death%20dashboard.PNG)
 ---
 Alright, till next time *luv* (P.S. the unctad file is included in this folder).
