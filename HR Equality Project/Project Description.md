@@ -3,7 +3,7 @@
 
 I just worked on a dataset from a semifictional HR firm and it was loads of fun
 
-The idea kinda was to asses whether there were any gender equality or diversity concerns
+The idea kinda was to assess whether there were any gender equality or diversity concerns
 
 I used four key variables to assess whether or not it was a major issue or an issue at all to be frank
 
