@@ -1,7 +1,7 @@
 # What I Found When Looking at Gender Equality in Workspaces
 #dataanalyticslockedin
 
-Hi everyone, I just worked on a dataset from a semifictional HR firm and it was loads of fun
+I just worked on a dataset from a semifictional HR firm and it was loads of fun
 
 The idea kinda was to asses whether there were any gender equality or diversity concerns
 
