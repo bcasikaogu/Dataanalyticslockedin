@@ -32,7 +32,8 @@ I also used some format changes such as locking the database for smoothness and 
 
 The data itself is locked without password though so dw---**muah**
 
-Lastly I'm not gonna do the whole "as you can see sales had an upward trend in Q3", like bitch pleasssseee
+Lastly I'm not gonna do the whole "as you can see sales had an upward trend in Q3", like bitch pleasssseee.
+
 Everyone that has eyes can read and takeaway what they will tbh
 
 Luv and see you on the next project
